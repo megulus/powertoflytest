@@ -8,3 +8,6 @@ as the first button. Clicking it increments its value and creates a new button o
 When you check your work, make sure that after n button clicks on the page, the sum of all buttons' counters should
 be n, and there should be n+1 buttons on the page.
  
+ 
+(Note: solution uses only vanilla JavaScript intentionally as I did not want to assume that the test environment
+would include jQuery.)
